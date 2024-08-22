@@ -6,7 +6,9 @@ Developed a views forecasting model in Excel utilizing historical data to predic
 Approaches Used:
 
     Excel FORECAST Formula: Applied the FORECAST function to project future views based on historical data.
-    Trendline (Linear): Created a polynomical trendline to visualize and predict views trends over time.(to determine which trendline to follow look for value of R^2, the more it is closer to 1, more accurate its prediction will be)
+    Trendline (Linear): Created a polynomical trendline to visualize and predict views trends over time.
+    (to determine which trendline to follow look for value of R^2, the more it is closer to 1,
+    more accurate its prediction will be)
 
 Skills Used:
 
